@@ -1,5 +1,7 @@
 # Drone Helm Charts
 
+trigger
+
 This repository hosts official [Helm](https://helm.sh/) charts for [Drone](https://drone.io/). These charts are used to deploy Drone to Kubernetes.
 
 ## Install Helm
